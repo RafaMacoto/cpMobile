@@ -74,6 +74,7 @@ const styles = StyleSheet.create({
     botao: {
         marginTop: 30,
         padding: 20,
-        width: 10
+        width: 10,
+        borderRadius: 30
     }
 })

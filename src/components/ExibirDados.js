@@ -21,7 +21,10 @@ const styles = StyleSheet.create({
         backgroundColor: 'grey',
         gap: 5,
         marginTop: 10,
-        borderRadius: 10
+        borderRadius: 10,
+        width: '80%',
+        padding: 10,
+        marginBottom: 30
     },
     texto: {
         color: 'white',
